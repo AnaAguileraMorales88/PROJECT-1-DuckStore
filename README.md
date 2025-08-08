@@ -1,28 +1,25 @@
 # Ducky Duck Store
 
-Proyecto grupal de desarrollo web: tienda ficticia de patitos de goma con carrito de compras dinámico.
+Proyecto grupal de desarrollo web: tienda ficticia de patitos de goma.
 
 ## Funcionalidades principales
 
-Catálogo de productos dinámico cargado desde un array de objetos.
-Filtro por categorías: Fantasía, Musical, Profesión.
-Carrito de compras con:
-Incremento/decremento de cantidad.
-Eliminación automática cuando cantidad es 0.
-Cálculo de subtotal por producto y total general.
-Simulación de compra y generación de ticket (ficticio).
-Formulario de contacto funcional (console.log).
-Contador visual de productos en el carrito.
-Diseño responsive para móviles.
+Las páginas serán estáticas y no ha de tener funcionalidades.
+Landing page que explique el objetivo del comercio.
+Página de catálogo de todos los patitos que tienen en venta que contenga mínimo un nombre, imagen y precio.
+Página de contacto con un formulario.
+Página de detalle de al menos un patito que contenga mínimo nombre, imagen, descripción, precio y cantidad de *stock*.
 
 ## Tecnologías usadas
+<ul>
+  <li>HTML5</li>
+  <li>CSS3</li>
+</ul>
 
-HTML5
-CSS3
-JavaScript (ES Modules)
-
-## Tests (pendiente)
-En una fase posterior se integrarán tests unitarios con Vitest para validar la lógica del carrito.
+## Herramientas
+<ul>
+  <li>Visual Studio Code</li>
+</ul>
 
 ##  Autoras
 <ul>
