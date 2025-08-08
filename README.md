@@ -26,7 +26,7 @@ En una fase posterior se integrarán tests unitarios con Vitest para validar la 
 
 ##  Autoras
 <ul>
-  <li>Suraya Souto</li>
+  <li>Suraya Matta</li>
   <li>Daniella Pacheco</li>
   <li>Ana Aguilera</li>
   <li>
