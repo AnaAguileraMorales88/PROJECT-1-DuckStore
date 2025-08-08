@@ -3,12 +3,16 @@
 Proyecto grupal de desarrollo web: tienda ficticia de patitos de goma.
 
 ## Funcionalidades principales
-
-Las páginas serán estáticas y no ha de tener funcionalidades.
-Landing page que explique el objetivo del comercio.
-Página de catálogo de todos los patitos que tienen en venta que contenga mínimo un nombre, imagen y precio.
-Página de contacto con un formulario.
-Página de detalle de al menos un patito que contenga mínimo nombre, imagen, descripción, precio y cantidad de *stock*.
+<ul>
+  <li>Las páginas serán estáticas y no ha de tener funcionalidades.</li>
+  <li>Landing page que explique el objetivo del comercio.</li>
+  <li>Página de catálogo de todos los patitos que tienen en venta que contenga mínimo un nombre, imagen y precio.
+</li>
+  <li>Página de contacto con un formulario.
+</li>
+  <li>Página de detalle de al menos un patito que contenga mínimo nombre, imagen, descripción, precio y cantidad de *stock*.
+</li>
+ </ul>
 
 ## Tecnologías usadas
 <ul>
