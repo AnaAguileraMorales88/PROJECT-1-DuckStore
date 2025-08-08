@@ -24,13 +24,14 @@ JavaScript (ES Modules)
 ## Tests (pendiente)
 En una fase posterior se integrarán tests unitarios con Vitest para validar la lógica del carrito.
 
-👩‍💻 Autoras
-
-Daniella Pacheco
-Suraya Matta
-Ana Aguilera
-Monserrat Muñoz
-Heidi
+##  Autoras
+<ul>
+  <li>Suraya Souto</li>
+  <li>Daniella Pacheco</li>
+  <li>Ana Aguilera</li>
+  <li>
+Monserrat Muñoz </li>
+</ul>
 
 
 ## Proyecto realizado para Factoria F5
