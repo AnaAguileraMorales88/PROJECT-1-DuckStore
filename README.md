@@ -1,8 +1,8 @@
-Ducky Duck Store
+# Ducky Duck Store
 
 Proyecto grupal de desarrollo web: tienda ficticia de patitos de goma con carrito de compras dinámico.
 
-📌 Funcionalidades principales
+## Funcionalidades principales
 
 Catálogo de productos dinámico cargado desde un array de objetos.
 Filtro por categorías: Fantasía, Musical, Profesión.
@@ -15,22 +15,22 @@ Formulario de contacto funcional (console.log).
 Contador visual de productos en el carrito.
 Diseño responsive para móviles.
 
-🧠 Tecnologías usadas
+## Tecnologías usadas
 
 HTML5
 CSS3
 JavaScript (ES Modules)
 
-🧪 Tests (pendiente)
+## Tests (pendiente)
 En una fase posterior se integrarán tests unitarios con Vitest para validar la lógica del carrito.
 
-👩‍💻 Autores
+👩‍💻 Autoras
 
+Daniella Pacheco
+Suraya Matta
 Ana Aguilera
-Gabriela Gallegos
-Erika P. Montoya
 Monserrat Muñoz
-Suraya Souto
+Heidi
 
 
-📅 Proyecto realizado para Factoria F5
+## Proyecto realizado para Factoria F5
