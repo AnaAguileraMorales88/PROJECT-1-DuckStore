@@ -54,14 +54,14 @@ Puedes contactar a las desarrolladoras a través de sus perfiles profesionales:
       <a href="https://www.linkedin.com/in/ana-aguilera-morales/">LinkedIn</a> |
       <a href="https://github.com/AnaAguileraMorales88" target="_blank">GitHub</a>
     </td>
-        <td style="border: none; padding: 10px;">
-      <b>Montse Muñoz </b><br>
+    <td style="border: none; padding: 10px;">
+      <b>Montse Muñoz</b><br>
       <a href="https://www.linkedin.com/in/montserrat-munoz-cabrera-ba202b227/">LinkedIn</a> |
       <a href="https://github.com/Montc027">GitHub</a>
     </td>
-          <td style="border: none; padding: 10px;">
-      <b>Suraya Mattar </b><br>
-       <a href="https://www.linkedin.com/in/suraya-mattar/">LinkedIn</a> |
+    <td style="border: none; padding: 10px;">
+      <b>Suraya Mattar</b><br>
+      <a href="https://www.linkedin.com/in/suraya-mattar/" target="_blank">LinkedIn</a> |
       <a href="https://github.com/surayac" target="_blank">GitHub</a>
     </td>
     <td style="border: none; padding: 10px;">
@@ -71,3 +71,4 @@ Puedes contactar a las desarrolladoras a través de sus perfiles profesionales:
     </td>
   </tr>
 </table>
+
